@@ -1,2 +1,2 @@
-# Power-Bi-Dashboard
+# Power-Bi-Dashboard Projects
 Goods Sales Analysis
